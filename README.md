@@ -8,21 +8,21 @@
 
 # MR-GREEN
 
-2
+
 
 ### Hi everyone 👋, my name is Tamim Ahmed 
 
-3
 
 
 
-4
 
-#### I am a small programmer.
 
-5
 
-### I am new please don't hate
+I am a small programmer.
+
+
+
+I am new please don't hate
 
 
 
@@ -32,9 +32,9 @@
 
 Skills: PYTHON/ HTML
 
-8
 
 
 
-9
+
+
 
