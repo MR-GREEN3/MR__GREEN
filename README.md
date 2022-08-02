@@ -5,6 +5,64 @@
 
 
 
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Page Title</title>
+
+    </head>
+
+    <body>
+
+    <a href="https://www.sololearn.com/Profile/21528028/?ref=app ">
+
+       <div class="icecream"></div> 
+
+       <div class="stick"></div>
+
+       </a>
+
+       <audio controls
+
+      style="display:none;" loop id="audio">
+
+          <source id="audio-source"
+
+          src="https://mobcup.net/d/ccljmsyr/mp3 ">
+
+          id="music" loop>
+
+      </audio>
+
+      <script>
+
+      alert("touch on the screen🎶")
+
+          window.addEventListener("mouseiver",play);
+
+          window.addEventListener ("click",play);
+
+          function play()
+
+          {
+
+              document.getElementById("audio").play();
+
+          }
+
+      </script>
+
+    </body>
+
+</html>
+
 - 🔭 
 
 # MR-GREEN
